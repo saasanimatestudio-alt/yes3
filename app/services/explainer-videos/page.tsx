@@ -13,17 +13,17 @@ const benefits = [
   {
     icon: Target,
     title: 'One Outcome Per Video',
-    description: 'We focus each explainer on a single, clear objective—whether that's driving sign-ups, explaining a feature, or supporting sales conversations. This laser focus maximizes conversion impact.',
+    description: "We focus each explainer on a single, clear objective—whether that is driving sign-ups, explaining a feature, or supporting sales conversations. This laser focus maximizes conversion impact.",
   },
   {
     icon: Clock,
     title: '60-120 Second Sweet Spot',
-    description: 'Research shows 90 seconds is the optimal length for explainer videos. Long enough to tell a compelling story, short enough to maintain attention throughout. We craft every second with purpose.',
+    description: "Research shows 90 seconds is the optimal length for explainer videos. Long enough to tell a compelling story, short enough to maintain attention throughout. We craft every second with purpose.",
   },
   {
     icon: CheckCircle,
     title: 'Conversion Engineered',
-    description: 'Our explainers aren't just beautiful—they're built to convert. Strategic CTAs, benefit-focused messaging, and visual hierarchy guide viewers toward your desired action.',
+    description: "Our explainers are not just beautiful—they are built to convert. Strategic CTAs, benefit-focused messaging, and visual hierarchy guide viewers toward your desired action.",
   },
 ];
 

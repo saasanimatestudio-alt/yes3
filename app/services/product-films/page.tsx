@@ -13,12 +13,12 @@ const benefits = [
   {
     icon: Film,
     title: 'Emotional Brand Connection',
-    description: 'Product films go beyond features to tell the human story behind your company. Why did you start this? What problem are you obsessed with solving? These narratives build emotional resonance that pure product demos can\'t achieve.',
+    description: "Product films go beyond features to tell the human story behind your company. Why did you start this? What problem are you obsessed with solving? These narratives build emotional resonance that pure product demos cannot achieve.",
   },
   {
     icon: Clapperboard,
     title: 'Cinematic Production Quality',
-    description: 'We blend documentary-style interviews, B-roll footage, motion graphics, and narrative pacing to create films that feel like premium content—not corporate marketing. The quality signals your company\'s seriousness and ambition.',
+    description: "We blend documentary-style interviews, B-roll footage, motion graphics, and narrative pacing to create films that feel like premium content—not corporate marketing. The quality signals your company is seriousness and ambition.",
   },
   {
     icon: TrendingUp,
@@ -36,7 +36,7 @@ const useCases = [
   {
     icon: Users,
     title: 'Investor Relations & Fundraising',
-    description: 'Investors back teams, not just products. Brand films showcase your founders' vision, team culture, and market insight—building confidence that goes far beyond pitch deck metrics.',
+    description: "Investors back teams, not just products. Brand films showcase your founders vision, team culture, and market insight—building confidence that goes far beyond pitch deck metrics.",
   },
   {
     icon: Award,
@@ -121,7 +121,7 @@ export default function ProductFilmsPage() {
                   At SaaS Animate, we've produced brand films for startups raising seed rounds, Series 
                   B companies expanding into new markets, and established players undergoing rebrands. 
                   Regardless of stage, the companies that invest in storytelling consistently outperform 
-                  those that don't—because people buy from companies they understand and trust.
+                  those that do not—because people buy from companies they understand and trust.
                 </p>
               </div>
             </section>

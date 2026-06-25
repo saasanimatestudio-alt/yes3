@@ -5,11 +5,11 @@ import { ArrowRight, Heart, TrendingUp, Users, BarChart3, CheckCircle } from 'lu
 
 export const metadata: Metadata = {
   title: 'Customer Success Animation Services | SaaS Animate',
-  description: 'Specialized customer success animation and explainer videos for CS platforms, onboarding tools, retention software, and customer health analytics. Improve retention with professional customer success videos.',
+  description: "Specialized customer success animation and explainer videos for CS platforms, onboarding tools, retention software, and customer health analytics. Improve retention with professional customer success videos.",
   keywords: 'customer success animation, CS platform explainer video, onboarding software demo video, customer retention video, churn reduction animation, customer health analytics video, NPS platform video, customer journey mapping animation, SaaS retention video, client success marketing video',
   openGraph: {
     title: 'Customer Success Animation Services | SaaS Animate',
-    description: 'Specialized customer success animation and explainer videos for CS platforms, onboarding tools, retention software, and customer health analytics.',
+    description: "Specialized customer success animation and explainer videos for CS platforms, onboarding tools, retention software, and customer health analytics.",
   },
 };
 
@@ -17,17 +17,17 @@ const benefits = [
   {
     icon: Heart,
     title: 'Simplify Customer Journey Complexity',
-    description: 'Customer success involves onboarding workflows, health scoring, intervention triggers, and renewal processes. Our animations transform these complex journeys into clear visual narratives that CCOs, CS leaders, and account teams instantly understand.',
+    description: "Customer success involves onboarding workflows, health scoring, intervention triggers, and renewal processes. Our animations transform these complex journeys into clear visual narratives that CCOs, CS leaders, and account teams instantly understand.",
   },
   {
     icon: TrendingUp,
     title: 'Demonstrate Retention Impact',
-    description: 'CS teams need to prove their value through retention metrics. Professional explainer videos effectively showcase how your platform reduces churn, increases expansion revenue, and drives customer lifetime value.',
+    description: "CS teams need to prove their value through retention metrics. Professional explainer videos effectively showcase how your platform reduces churn, increases expansion revenue, and drives customer lifetime value.",
   },
   {
     icon: BarChart3,
     title: 'Accelerate CS Platform Adoption',
-    description: 'Customer success software purchases involve multiple stakeholders and change management considerations. Compelling animation reduces implementation resistance by 50%+ by clearly showing user benefits and workflow improvements.',
+    description: "Customer success software purchases involve multiple stakeholders and change management considerations. Compelling animation reduces implementation resistance by 50%+ by clearly showing user benefits and workflow improvements.",
   },
 ];
 
@@ -35,49 +35,49 @@ const processSteps = [
   {
     num: '01',
     title: 'Customer Success Discovery',
-    description: 'We immerse ourselves in your CS platform, understanding customer lifecycle stages, health indicators, intervention strategies, and the specific retention challenges your solution addresses for growing SaaS companies.',
+    description: "We immerse ourselves in your CS platform, understanding customer lifecycle stages, health indicators, intervention strategies, and the specific retention challenges your solution addresses for growing SaaS companies.",
   },
   {
     num: '02',
     title: 'Outcome-Focused Scripting',
-    description: 'Our scripts speak the language of customer outcomes. We highlight retention improvements, expansion revenue, reduced time-to-value, and customer satisfaction metrics that resonate with CS executives.',
+    description: "Our scripts speak the language of customer outcomes. We highlight retention improvements, expansion revenue, reduced time-to-value, and customer satisfaction metrics that resonate with CS executives.",
   },
   {
     num: '03',
     title: 'Empathetic Visual Design',
-    description: 'Warm, relationship-focused motion design that reflects the human-centric nature of customer success. We visualize customer emotions, touchpoints, and success moments that build lasting partnerships.',
+    description: "Warm, relationship-focused motion design that reflects the human-centric nature of customer success. We visualize customer emotions, touchpoints, and success moments that build lasting partnerships.",
   },
   {
     num: '04',
     title: 'Multi-Audience Distribution',
-    description: 'Receive versions optimized for CS team training, executive presentations, customer onboarding, conference sessions, and sales enablement. Every format designed for its specific CS audience.',
+    description: "Receive versions optimized for CS team training, executive presentations, customer onboarding, conference sessions, and sales enablement. Every format designed for its specific CS audience.",
   },
 ];
 
 const useCases = [
   {
     title: 'Customer Health Scoring',
-    description: 'Visualize health algorithms, risk indicators, usage metrics, and predictive churn models. Show CS teams how your platform identifies at-risk customers before it's too late.',
+    description: "Visualize health algorithms, risk indicators, usage metrics, and predictive churn models. Show CS teams how your platform identifies at-risk customers before it is too late.",
   },
   {
     title: 'Onboarding & Adoption',
-    description: 'Demonstrate onboarding workflows, milestone tracking, in-app guidance, and adoption campaigns. Illustrate how your platform accelerates time-to-value for new customers.',
+    description: "Demonstrate onboarding workflows, milestone tracking, in-app guidance, and adoption campaigns. Illustrate how your platform accelerates time-to-value for new customers.",
   },
   {
     title: 'Renewal Management',
-    description: 'Showcase renewal forecasting, contract tracking, automated reminders, and negotiation workflows. Help CS teams visualize proactive renewal strategies that protect revenue.',
+    description: "Showcase renewal forecasting, contract tracking, automated reminders, and negotiation workflows. Help CS teams visualize proactive renewal strategies that protect revenue.",
   },
   {
     title: 'Customer Feedback & NPS',
-    description: 'Bring to life survey distribution, sentiment analysis, feedback loops, and action planning. Show how your platform turns customer insights into retention improvements.',
+    description: "Bring to life survey distribution, sentiment analysis, feedback loops, and action planning. Show how your platform turns customer insights into retention improvements.",
   },
   {
     title: 'Expansion & Upsell',
-    description: 'Illustrate opportunity identification, expansion playbooks, cross-sell recommendations, and quota tracking. Appeal to CS leaders focused on net revenue retention.',
+    description: "Illustrate opportunity identification, expansion playbooks, cross-sell recommendations, and quota tracking. Appeal to CS leaders focused on net revenue retention.",
   },
   {
     title: 'Customer Journey Mapping',
-    description: 'Visualize touchpoint tracking, lifecycle stages, persona-based journeys, and experience optimization. Help teams understand and improve every customer interaction.',
+    description: "Visualize touchpoint tracking, lifecycle stages, persona-based journeys, and experience optimization. Help teams understand and improve every customer interaction.",
   },
 ];
 

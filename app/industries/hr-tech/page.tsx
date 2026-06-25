@@ -22,7 +22,7 @@ const benefits = [
   {
     icon: TrendingUp,
     title: 'Drive Adoption & Engagement',
-    description: 'New HR tools fail when employees don't use them. Engaging explainer videos increase platform adoption by 60%+ and reduce training time dramatically. Show employees exactly how your solution makes their work life easier.',
+    description: "New HR tools fail when employees do not use them. Engaging explainer videos increase platform adoption by 60%+ and reduce training time dramatically. Show employees exactly how your solution makes their work life easier.",
   },
   {
     icon: Shield,

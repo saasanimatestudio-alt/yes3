@@ -17,17 +17,17 @@ const benefits = [
   {
     icon: BookOpen,
     title: 'Simplify Learning Concepts',
-    description: 'Complex educational methodologies, pedagogical approaches, and learning outcomes become instantly clear through visual storytelling. Our animations help educators, administrators, and students understand your platform's unique approach to learning.',
+    description: "Complex educational methodologies, pedagogical approaches, and learning outcomes become instantly clear through visual storytelling. Our animations help educators, administrators, and students understand your platform is unique approach to learning.",
   },
   {
     icon: GraduationCap,
     title: 'Drive Student Engagement',
-    description: 'Attention spans are shorter than ever. Engaging animated content increases course completion rates by up to 70% and keeps learners motivated throughout their educational journey. Make learning irresistible.',
+    description: "Attention spans are shorter than ever. Engaging animated content increases course completion rates by up to 70% and keeps learners motivated throughout their educational journey. Make learning irresistible.",
   },
   {
     icon: TrendingUp,
     title: 'Boost Enrollment Conversions',
-    description: 'Prospective students and parents need to see value before committing. Professional explainer videos on landing pages increase enrollment conversions by 80%+ and reduce cost per acquisition significantly.',
+    description: "Prospective students and parents need to see value before committing. Professional explainer videos on landing pages increase enrollment conversions by 80%+ and reduce cost per acquisition significantly.",
   },
 ];
 
