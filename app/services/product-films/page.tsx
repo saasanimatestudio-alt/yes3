@@ -49,7 +49,7 @@ const process = [
   {
     num: '01',
     title: 'Story Discovery',
-    description: 'We conduct deep-dive interviews with founders, key team members, and customers to uncover the authentic narrative threads. What is the origin story? What obstacles have you overcome? What's the vision? This discovery phase shapes the entire film.',
+    description: "We conduct deep-dive interviews with founders, key team members, and customers to uncover the authentic narrative threads. What is the origin story? What obstacles have you overcome? What's the vision? This discovery phase shapes the entire film.",
   },
   {
     num: '02',
