@@ -16,18 +16,21 @@ const footerLinks = {
     { label: 'Healthcare', href: '/industries/healthcare' },
     { label: 'Developer Tools', href: '/industries/developer-tools' },
     { label: 'Enterprise', href: '/industries/enterprise' },
+    { label: 'HR Tech', href: '/industries/hr-tech' },
+    { label: 'EdTech', href: '/industries/edtech' },
+    { label: 'Cybersecurity', href: '/industries/cybersecurity' },
+    { label: 'Marketing Automation', href: '/industries/marketing-automation' },
+    { label: 'Customer Success', href: '/industries/customer-success' },
   ],
   services: [
-    { label: 'SaaS Explainer', href: '/services' },
-    { label: 'Demo Videos', href: '/services' },
-    { label: 'UX/UI Videos', href: '/services' },
-    { label: 'Product Films', href: '/services' },
-    { label: 'Launch Videos', href: '/services' },
+    { label: 'SaaS Explainer', href: '/services/explainer-videos' },
+    { label: 'Demo Videos', href: '/services/demo-videos' },
+    { label: 'UX/UI Videos', href: '/services/ux-ui-videos' },
+    { label: 'Product Films', href: '/services/product-films' },
+    { label: 'Launch Videos', href: '/services/launch-videos' },
   ],
   connect: [
     { label: 'hello@saasanimate.com', href: 'mailto:hello@saasanimate.com', isEmail: true },
-    { label: 'LinkedIn', href: '#' },
-    { label: 'Vimeo', href: '#' },
     { label: 'Twitter / X', href: '#' },
     { label: 'YouTube', href: 'https://www.youtube.com/@SaasAnimate' },
   ],
@@ -37,7 +40,7 @@ export function Footer() {
   return (
     <footer className="px-10 pt-20 pb-8 border-t border-border bg-bg-2">
       <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8 mb-16">
           <div className="lg:col-span-1">
             <div className="flex items-center gap-2.5 mb-4">
               <span className="w-7 h-7 rounded-lg bg-white flex items-center justify-center">
@@ -137,10 +140,10 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-border gap-4">
           <p className="text-fg-muted text-xs">© 2026 SaaS Animate. All rights reserved.</p>
           <div className="flex gap-6">
-            <Link href="#" className="text-fg-muted text-xs hover:text-fg-dim transition-colors">
+            <Link href="/legal/privacy" className="text-fg-muted text-xs hover:text-fg-dim transition-colors">
               Privacy Policy
             </Link>
-            <Link href="#" className="text-fg-muted text-xs hover:text-fg-dim transition-colors">
+            <Link href="/legal/terms" className="text-fg-muted text-xs hover:text-fg-dim transition-colors">
               Terms of Service
             </Link>
             <Link href="/sitemap.xml" className="text-fg-muted text-xs hover:text-fg-dim transition-colors">
