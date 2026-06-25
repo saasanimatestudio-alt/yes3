@@ -69,7 +69,7 @@ const useCases = [
   },
   {
     title: 'Learning & Development Platforms',
-    description: 'Demonstrate course creation, skill gap analysis, personalized learning paths, and certification tracking. Engage L&D professionals with visuals that highlight your platform's impact on workforce capabilities.',
+    description: "Demonstrate course creation, skill gap analysis, personalized learning paths, and certification tracking. Engage L&D professionals with visuals that highlight your platform's impact on workforce capabilities.",
   },
   {
     title: 'Employee Engagement Solutions',
