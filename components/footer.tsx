@@ -10,6 +10,13 @@ const footerLinks = {
     { label: 'FAQ', href: '/faq' },
     { label: 'Contact', href: '/contact' },
   ],
+  industries: [
+    { label: 'SaaS', href: '/industries/saas' },
+    { label: 'Fintech', href: '/industries/fintech' },
+    { label: 'Healthcare', href: '/industries/healthcare' },
+    { label: 'Developer Tools', href: '/industries/developer-tools' },
+    { label: 'Enterprise', href: '/industries/enterprise' },
+  ],
   services: [
     { label: 'SaaS Explainer', href: '/services' },
     { label: 'Demo Videos', href: '/services' },
@@ -22,7 +29,7 @@ const footerLinks = {
     { label: 'LinkedIn', href: '#' },
     { label: 'Vimeo', href: '#' },
     { label: 'Twitter / X', href: '#' },
-    { label: 'YouTube', href: '#' },
+    { label: 'YouTube', href: 'https://www.youtube.com/@SaasAnimate' },
   ],
 };
 
@@ -30,7 +37,7 @@ export function Footer() {
   return (
     <footer className="px-10 pt-20 pb-8 border-t border-border bg-bg-2">
       <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-16">
           <div className="lg:col-span-1">
             <div className="flex items-center gap-2.5 mb-4">
               <span className="w-7 h-7 rounded-lg bg-white flex items-center justify-center">
@@ -54,6 +61,23 @@ export function Footer() {
             </h4>
             <div className="flex flex-col gap-2">
               {footerLinks.studio.map((link) => (
+                <Link
+                  key={link.label}
+                  href={link.href}
+                  className="text-fg-dim text-sm transition-colors hover:text-accent"
+                >
+                  {link.label}
+                </Link>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <h4 className="text-xs tracking-widest uppercase text-fg-muted mb-6 font-medium">
+              Industries
+            </h4>
+            <div className="flex flex-col gap-2">
+              {footerLinks.industries.map((link) => (
                 <Link
                   key={link.label}
                   href={link.href}

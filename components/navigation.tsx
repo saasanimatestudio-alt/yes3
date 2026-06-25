@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { useState, useEffect } from 'react';
 import { Menu, X, ChevronUp } from 'lucide-react';
 import { cn } from '@/lib/utils';
@@ -17,20 +18,7 @@ const navLinks = [
 export function Navigation() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const [currentPath, setCurrentPath] = useState('/');
-
-  useEffect(() => {
-    const handleScroll = () => {
-      setScrolled(window.scrollY > 20);
-    };
-
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
-
-  useEffect(() => {
-    setCurrentPath(window.location.pathname);
-  }, []);
+  const pathname = usePathname();
 
   return (
     <nav className={cn('nav', scrolled && 'nav-scrolled')}>
@@ -52,11 +40,11 @@ export function Navigation() {
             href={link.href}
             className={cn(
               'text-sm text-fg-dim transition-colors duration-300 relative hover:text-white',
-              currentPath === link.href && 'text-white'
+              pathname === link.href && 'text-white'
             )}
           >
             {link.label}
-            {currentPath === link.href && (
+            {pathname === link.href && (
               <span className="absolute -bottom-1.5 left-0 right-0 h-px bg-accent rounded-full" />
             )}
           </Link>
@@ -90,7 +78,7 @@ export function Navigation() {
             onClick={() => setMobileMenuOpen(false)}
             className={cn(
               'text-base text-fg-dim transition-colors duration-300 hover:text-accent',
-              currentPath === link.href && 'text-accent'
+              pathname === link.href && 'text-accent'
             )}
           >
             {link.label}
