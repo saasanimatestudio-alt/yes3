@@ -60,7 +60,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'A great demo video is part tutorial, part sales pitch, and part film.',
     date: 'June 5, 2026',
     readTime: '10 min read',
-    image: '/images/blog/blog-vs.jpg',
+    image: '/images/blog/blog-demo.jpg',
     content: `<p>Demo videos are the most underrated asset in the SaaS marketing toolkit. While everyone obsesses over homepage explainers, the demo video is quietly doing the heavy lifting further down the funnel.</p>
 <h2>What a Demo Video Actually Is</h2>
 <p>A demo video is not a screen recording with a voiceover droning through every feature. That's a tutorial. A demo video is a curated, narrative-driven walkthrough that shows your product solving a real problem for a real user.</p>
@@ -88,7 +88,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'They sound similar but serve completely different purposes.',
     date: 'May 28, 2026',
     readTime: '7 min read',
-    image: '/images/blog/blog-vs.jpg',
+    image: '/images/blog/blog-comparison.jpg',
     content: `<p>"Should we make an explainer video or a demo video?" It's one of the most common questions we get.</p>
 <h2>The Core Difference</h2>
 <p>An <strong>explainer video</strong> answers the question: "What does this product do and why should I care?" It's conceptual, story-driven, and focused on the problem and outcome.</p>
@@ -169,7 +169,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'From AI-assisted animation to kinetic typography.',
     date: 'April 18, 2026',
     readTime: '8 min read',
-    image: '/images/blog/blog-explainer.jpg',
+    image: '/images/blog/blog-trends.jpg',
     content: `<p>SaaS video design moves fast. Styles that felt fresh 18 months ago now look dated.</p>
 <h2>1. Mixed Media Collage</h2>
 <p>One of the most distinctive trends of 2026 is mixed media — combining animation, live action, photography, and texture in unexpected ways.</p>
@@ -192,7 +192,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'The definitive ranking of the best SaaS explainer video and launch video production studios shaping the industry in 2026.',
     date: 'July 1, 2026',
     readTime: '11 min read',
-    image: '/images/blog/blog-explainer.jpg',
+    image: '/images/blog/blog-top10.jpg',
     content: `<p>The SaaS animation industry has exploded in 2026, with more companies than ever recognizing the power of video to drive conversions, explain complex products, and launch with impact. We've compiled the definitive list of the top 10 SaaS animation companies that are setting the standard for explainer videos, product demos, and launch films.</p>
 <h2>1. SaaS Animate</h2>
 <p><strong>Specialty:</strong> SaaS explainer videos, demo videos, launch videos</p>
@@ -264,7 +264,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'A comprehensive guide to the leading animation studios and video production agencies across the United States for SaaS and tech companies.',
     date: 'June 28, 2026',
     readTime: '10 min read',
-    image: '/images/blog/blog-vs.jpg',
+    image: '/images/blog/blog-agencies.jpg',
     content: `<p>The United States is home to some of the world's most talented animation agencies, particularly those specializing in SaaS and technology marketing. This guide ranks the top 10 animation agencies in the USA based on portfolio quality, client results, industry expertise, and innovation.</p>
 <h2>1. SaaS Animate</h2>
 <p><strong>Location:</strong> Remote-first, US-based team</p>
@@ -340,7 +340,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Everything you need to know to create a high-impact launch video for your SaaS product, from pre-production to distribution.',
     date: 'June 20, 2026',
     readTime: '9 min read',
-    image: '/images/blog/blog-script.jpg',
+    image: '/images/blog/blog-launch.jpg',
     content: `<p>Launching a SaaS product without a great launch video in 2026 is like opening a restaurant without a menu—you might get customers, but you're making it unnecessarily hard on yourself. This checklist covers everything you need to create a launch video that drives awareness, signups, and momentum.</p>
 <h2>Pre-Production Phase</h2>
 <h3>1. Define Your Launch Goals</h3>
