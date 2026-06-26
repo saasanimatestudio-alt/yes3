@@ -28,36 +28,43 @@ const services = [
     icon: Clock,
     title: 'SaaS Explainer Videos',
     description: 'The cornerstone of any SaaS marketing stack. A 60–120 second animated story that explains what you do, who it\'s for, and why it matters.',
+    href: '/services/explainer-videos',
   },
   {
     icon: MonitorPlay,
     title: 'Demo Videos',
     description: 'Turn your product walkthrough into something people want to watch. We combine real UI capture with cinematic motion design.',
+    href: '/services/demo-videos',
   },
   {
     icon: Layout,
     title: 'UX/UI Videos',
     description: 'Showcase your design system, user flows and interface polish with purpose-built motion pieces.',
+    href: '/services/ux-ui-videos',
   },
   {
     icon: Boxes,
     title: 'Product Videos',
     description: 'Hero films that make your product feel like the only option. We blend motion graphics, live action and UI animation.',
+    href: '/services/product-films',
   },
   {
     icon: Heart,
     title: 'Brand Videos',
     description: 'Manifesto films, culture pieces and origin stories. Less about features, more about feeling.',
+    href: '#',
   },
   {
     icon: Megaphone,
     title: 'Promo Videos',
     description: 'Short-form content engineered for paid social, display ads and landing pages. 6, 15 and 30-second cuts.',
+    href: '#',
   },
   {
     icon: Zap,
     title: 'Launch Videos',
     description: 'Event-grade films for Product Hunt, TechCrunch, conference keynotes and major releases.',
+    href: '/services/launch-videos',
   },
 ];
 
@@ -90,13 +97,13 @@ export default function ServicesPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-16">
             {services.map((service, i) => (
               <Reveal key={i} delay={i * 50}>
-                <div className="service-card">
+                <Link href={service.href} className="service-card block">
                   <div className="w-14 h-14 rounded-xl bg-accent-soft flex items-center justify-center mb-7 text-accent">
                     <service.icon className="w-6 h-6" />
                   </div>
                   <h3 className="font-serif text-2xl tracking-tight mb-3">{service.title}</h3>
                   <p className="text-fg-dim text-base leading-relaxed">{service.description}</p>
-                </div>
+                </Link>
               </Reveal>
             ))}
           </div>
