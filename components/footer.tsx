@@ -30,7 +30,7 @@ const footerLinks = {
     { label: 'Launch Videos', href: '/services/launch-videos' },
   ],
   connect: [
-    { label: 'hello@saasanimate.com', href: 'mailto:hello@saasanimate.com', isEmail: true },
+    { label: 'saasanimatestudio@gmail.com', href: 'mailto:saasanimatestudio@gmail.com', isEmail: true },
     { label: 'Twitter / X', href: '#' },
     { label: 'YouTube', href: 'https://www.youtube.com/@SaasAnimate' },
   ],
