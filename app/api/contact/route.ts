@@ -79,7 +79,7 @@ export async function POST(request: Request) {
   try {
     const { data, error } = await resend.emails.send({
       from: process.env.RESEND_FROM_EMAIL ?? 'SaaS Animate <onboarding@resend.dev>',
-      to: ['hello@saasanimate.com'],
+      to: ['saasanimatestudio@gmail.com'],
       replyTo: `${safeName} <${safeEmail}>`,
       subject: `New enquiry from ${safeName} — ${safeService}`,
       html: `

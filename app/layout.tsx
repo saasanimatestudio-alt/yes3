@@ -94,9 +94,8 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${fraunces.variable}`}>
       <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="icon" href="/favicon.png" type="image/png" />
-        <link rel="apple-touch-icon" href="/favicon.png" />
+        <link rel="icon" href="/logo.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/logo.svg" />
         <meta name="theme-color" content="#0a0a0a" />
         <script
           type="application/ld+json"
@@ -109,7 +108,7 @@ export default function RootLayout({
               logo: 'https://saasanimate.com/logo.png',
               description:
                 'Focused animation studio for SaaS teams. Explainer videos, product demos, UI motion and launch films — engineered to convert, not decorate.',
-              email: 'hello@saasanimate.com',
+              email: 'saasanimatestudio@gmail.com',
               aggregateRating: {
                 '@type': 'AggregateRating',
                 ratingValue: '4.9',

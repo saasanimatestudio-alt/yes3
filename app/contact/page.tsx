@@ -104,8 +104,8 @@ export default function ContactPage() {
               <div className="space-y-6">
                 <div className="flex justify-between items-center py-6 border-b border-border">
                   <span className="text-xs tracking-widest uppercase text-fg-muted font-medium">Email</span>
-                  <a href="mailto:hello@saasanimate.com" className="text-white hover:text-accent transition-colors">
-                    hello@saasanimate.com
+                  <a href="mailto:saasanimatestudio@gmail.com" className="text-white hover:text-accent transition-colors">
+                    saasanimatestudio@gmail.com
                   </a>
                 </div>
                 <div className="flex justify-between items-center py-6 border-b border-border">
@@ -293,7 +293,7 @@ export default function ContactPage() {
                 <div className="mt-4 p-4 bg-red-500/10 border border-red-500 rounded-xl flex items-center gap-3 text-red-400">
                   <XCircle className="w-5 h-5" />
                   <span className="text-sm font-medium">
-                    {!formData.budget ? 'Please select a project budget.' : 'Something went wrong. Please email us at hello@saasanimate.com'}
+                    {!formData.budget ? 'Please select a project budget.' : 'Something went wrong. Please email us at saasanimatestudio@gmail.com'}
                   </span>
                 </div>
               )}
