@@ -24,7 +24,7 @@ export function Navigation() {
   return (
     <nav className={cn('nav', scrolled && 'nav-scrolled')}>
       <Link href="/" className="flex items-center gap-3 cursor-pointer group">
-        <Image src="/logo.svg" alt="SaaS Animate" width={48} height={48} className="w-12 h-12" />
+        <Image src="/logo.svg" alt="SaaS Animate" width={180} height={48} className="w-[180px] h-auto" />
       </Link>
 
       <div className="hidden lg:flex items-center gap-8">

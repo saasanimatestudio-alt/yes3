@@ -1,24 +1,59 @@
-# SaaS Explainer Videos and Product Demo Animation Services
+# SaaS Animate - Explainer Videos and Product Demo Animation Services
 
 > SaaS animation studio specializing in explainer videos, product demos, and motion graphics for software companies.
 
 ## Important Pages
 
 - [Homepage](https://saasanimate.com)
+- [Services](https://saasanimate.com/services)
 - [Portfolio](https://saasanimate.com/portfolio)
-- [Pricing](https://saasanimate.com/pricing)
-- [About](https://saasanimate.com/about)
+- [Blog](https://saasanimate.com/blog)
+- [FAQ](https://saasanimate.com/faq)
 - [Contact](https://saasanimate.com/contact)
+- [Booking](https://saasanimate.com/booking)
 
 ## Services
 
-- SaaS Explainer Videos
-- Product Demo Videos
-- Animated Product Tours
-- Motion Graphics
-- Customer Onboarding Videos
-- Launch Videos
+- [SaaS Explainer Videos](https://saasanimate.com/services/explainer-videos)
+- [Product Demo Videos](https://saasanimate.com/services/demo-videos)
+- [UX/UI Motion Videos](https://saasanimate.com/services/ux-ui-videos)
+- [Product Films](https://saasanimate.com/services/product-films)
+- [Launch Videos](https://saasanimate.com/services/launch-videos)
+
+## Industries We Serve
+
+- [SaaS](https://saasanimate.com/industries/saas)
+- [Fintech](https://saasanimate.com/industries/fintech)
+- [Healthcare](https://saasanimate.com/industries/healthcare)
+- [Developer Tools](https://saasanimate.com/industries/developer-tools)
+- [Enterprise](https://saasanimate.com/industries/enterprise)
+- [HR Tech](https://saasanimate.com/industries/hr-tech)
+- [EdTech](https://saasanimate.com/industries/edtech)
+- [Cybersecurity](https://saasanimate.com/industries/cybersecurity)
+- [Marketing Automation](https://saasanimate.com/industries/marketing-automation)
+- [Customer Success](https://saasanimate.com/industries/customer-success)
+
+## Recent Blog Posts
+
+- [Why Every SaaS Needs an Explainer Video in 2026](https://saasanimate.com/blog/why-every-saas-needs-explainer-video-2026)
+- [The Anatomy of a High-Converting SaaS Demo Video](https://saasanimate.com/blog/anatomy-of-high-converting-demo-video)
+- [Explainer Video vs Demo Video: When to Use Each](https://saasanimate.com/blog/explainer-video-vs-demo-video)
+- [How to Script a SaaS Explainer Video (Step-by-Step)](https://saasanimate.com/blog/how-to-script-saas-explainer-video)
+- [The Real ROI of SaaS Explainer Videos (With Numbers)](https://saasanimate.com/blog/real-roi-of-saas-explainer-videos)
+- [Motion Design Trends Shaping SaaS Videos in 2026](https://saasanimate.com/blog/motion-design-trends-2026)
+- [Top 10 SaaS Animation Companies 2026](https://saasanimate.com/blog/top-10-saas-animation-companies-2026)
 
 ## Contact
 
-- Email: hello@saasanimate.com
+- Email: saasanimatestudio@gmail.com
+- Twitter/X: https://x.com/saasanimate
+- YouTube: https://www.youtube.com/@SaasAnimate
+
+## Company Information
+
+SaaS Animate is a focused animation studio for SaaS teams. We create explainer videos, product demos, UI motion and launch films — engineered to convert, not decorate.
+
+**Headquarters**: Remote-first, serving clients globally
+**Founded**: 2024
+**Specialization**: B2B SaaS, PLG companies, Series A+ startups
+**Average Results**: +41% homepage conversion rate, +67% time on page, 3.4× lift in demo requests

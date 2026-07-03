@@ -31,7 +31,7 @@ const footerLinks = {
   ],
   connect: [
     { label: 'saasanimatestudio@gmail.com', href: 'mailto:saasanimatestudio@gmail.com', isEmail: true },
-    { label: 'Twitter / X', href: '#' },
+    { label: 'Twitter / X', href: 'https://x.com/saasanimate' },
     { label: 'YouTube', href: 'https://www.youtube.com/@SaasAnimate' },
   ],
 };
