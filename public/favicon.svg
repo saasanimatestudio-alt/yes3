@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 { fill: #b8ff3e; }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="50" cy="50" r="45"/>
+  <path class="cls-1" d="M35 25 L75 50 L35 75 Z" fill="#0a0a0a"/>
+</svg>
