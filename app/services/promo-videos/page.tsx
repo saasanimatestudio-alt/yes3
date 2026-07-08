@@ -18,7 +18,7 @@ const benefits = [
   {
     icon: Target,
     title: 'Platform Optimized',
-    description: 'Every cut is tailored for its platform—whether that's LinkedIn, Instagram, YouTube, or display networks. We optimize aspect ratios, captions, and CTAs.',
+    description: 'Every cut is tailored for its platform—whether that is LinkedIn, Instagram, YouTube, or display networks. We optimize aspect ratios, captions, and CTAs.',
   },
   {
     icon: Megaphone,
