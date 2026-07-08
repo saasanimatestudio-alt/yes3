@@ -49,11 +49,11 @@
 
 @layer components {
   .nav {
-    @apply fixed top-0 left-0 right-0 z-50 px-10 py-4 flex items-center justify-between backdrop-blur-xl bg-[rgba(10,10,10,0.85)] border-b border-border transition-all duration-300;
+    @apply fixed top-0 left-0 right-0 z-50 px-10 py-3.5 flex items-center justify-between backdrop-blur-xl bg-[rgba(10,10,10,0.85)] border-b border-border transition-all duration-300;
   }
 
   .nav-scrolled {
-    @apply py-3;
+    @apply py-2.5;
   }
 
   .btn {
