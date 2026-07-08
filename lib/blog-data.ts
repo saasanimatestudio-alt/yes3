@@ -17,7 +17,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'The data is clear: SaaS companies with explainer videos convert 80% more visitors than those without.',
     date: 'June 12, 2026',
     readTime: '8 min read',
-    image: '/images/blog/blog-explainer.jpg',
+    image: '/images/blog/blog-explainer-new.jpg',
     content: `<p>If you run a SaaS company in 2026 and don't have an explainer video on your homepage, you're leaving money on the table. The data is unambiguous: websites with explainer videos convert up to 80% more visitors than those without.</p>
 <p>At SaaS Animate, we've produced over 300 explainer videos for software companies ranging from pre-seed startups to public enterprises. Across that work, we've seen the same pattern play out again and again: the companies that invest in a great explainer video almost always outperform the ones that don't.</p>
 <h2>The Attention Problem SaaS Faces</h2>
@@ -60,7 +60,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'A great demo video is part tutorial, part sales pitch, and part film.',
     date: 'June 5, 2026',
     readTime: '10 min read',
-    image: '/images/blog/blog-demo.jpg',
+    image: '/images/blog/blog-demo-new.jpg',
     content: `<p>Demo videos are the most underrated asset in the SaaS marketing toolkit. While everyone obsesses over homepage explainers, the demo video is quietly doing the heavy lifting further down the funnel.</p>
 <h2>What a Demo Video Actually Is</h2>
 <p>A demo video is not a screen recording with a voiceover droning through every feature. That's a tutorial. A demo video is a curated, narrative-driven walkthrough that shows your product solving a real problem for a real user.</p>
@@ -143,7 +143,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'We tracked results across 200+ client videos.',
     date: 'May 2, 2026',
     readTime: '9 min read',
-    image: '/images/blog/blog-roi.jpg',
+    image: '/images/blog/blog-roi-new.jpg',
     content: `<p>Every SaaS founder asks the same question before investing in an explainer video: "Will this actually move the needle?"</p>
 <h2>The Headline Numbers</h2>
 <p>Across our client base, here are the average results within 90 days of launching a new explainer video:</p>
@@ -169,7 +169,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'From AI-assisted animation to kinetic typography.',
     date: 'April 18, 2026',
     readTime: '8 min read',
-    image: '/images/blog/blog-trends.jpg',
+    image: '/images/blog/blog-trends-new.jpg',
     content: `<p>SaaS video design moves fast. Styles that felt fresh 18 months ago now look dated.</p>
 <h2>1. Mixed Media Collage</h2>
 <p>One of the most distinctive trends of 2026 is mixed media — combining animation, live action, photography, and texture in unexpected ways.</p>

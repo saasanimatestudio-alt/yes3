@@ -5,19 +5,35 @@
 ## Important Pages
 
 - [Homepage](https://saasanimate.com)
+- [Services](https://saasanimate.com/services)
 - [Portfolio](https://saasanimate.com/portfolio)
-- [Pricing](https://saasanimate.com/pricing)
-- [About](https://saasanimate.com/about)
+- [Blog](https://saasanimate.com/blog)
+- [FAQ](https://saasanimate.com/faq)
 - [Contact](https://saasanimate.com/contact)
+- [Booking](https://saasanimate.com/booking)
 
 ## Services
 
-- SaaS Explainer Videos
-- Product Demo Videos
-- Animated Product Tours
-- Motion Graphics
-- Customer Onboarding Videos
-- Launch Videos
+- [SaaS Explainer Videos](https://saasanimate.com/services/explainer-videos)
+- [Demo Videos](https://saasanimate.com/services/demo-videos)
+- [UX/UI Videos](https://saasanimate.com/services/ux-ui-videos)
+- [Product Films](https://saasanimate.com/services/product-films)
+- [Brand Videos](https://saasanimate.com/services/brand-videos)
+- [Promo Videos](https://saasanimate.com/services/promo-videos)
+- [Launch Videos](https://saasanimate.com/services/launch-videos)
+
+## Industries
+
+- SaaS
+- Fintech
+- Healthcare
+- Developer Tools
+- Enterprise
+- HR Tech
+- EdTech
+- Cybersecurity
+- Marketing Automation
+- Customer Success
 
 ## Contact
 
