@@ -52,13 +52,13 @@ const services = [
     icon: Heart,
     title: 'Brand Videos',
     description: 'Manifesto films, culture pieces and origin stories. Less about features, more about feeling.',
-    href: '#',
+    href: '/services/brand-videos',
   },
   {
     icon: Megaphone,
     title: 'Promo Videos',
     description: 'Short-form content engineered for paid social, display ads and landing pages. 6, 15 and 30-second cuts.',
-    href: '#',
+    href: '/services/promo-videos',
   },
   {
     icon: Zap,

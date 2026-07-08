@@ -27,6 +27,8 @@ const footerLinks = {
     { label: 'Demo Videos', href: '/services/demo-videos' },
     { label: 'UX/UI Videos', href: '/services/ux-ui-videos' },
     { label: 'Product Films', href: '/services/product-films' },
+    { label: 'Brand Videos', href: '/services/brand-videos' },
+    { label: 'Promo Videos', href: '/services/promo-videos' },
     { label: 'Launch Videos', href: '/services/launch-videos' },
   ],
   connect: [
