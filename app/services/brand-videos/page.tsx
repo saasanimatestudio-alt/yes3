@@ -34,7 +34,7 @@ const useCases = [
   },
   {
     title: 'Culture & Values Film',
-    description: 'Showcase what it's like to work at your company. Perfect for recruitment, investor relations, and brand building.',
+    description: 'Showcase what it is like to work at your company. Perfect for recruitment, investor relations, and brand building.',
   },
   {
     title: 'Brand Manifesto',
